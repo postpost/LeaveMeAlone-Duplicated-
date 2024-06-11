@@ -1,0 +1,12 @@
+.vs
+*.sln
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+AnimStarterPack/
+Characters/
+LevelPrototyping/
+MSPresets/
+StarterContent/
